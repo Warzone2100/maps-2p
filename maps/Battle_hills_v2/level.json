@@ -1,0 +1,13 @@
+{
+    "name": "Battle_hills_v2",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "urban",
+    "author": {
+        "name": "aycT"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-10-16 18:06:10",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.22 Windows"
+}

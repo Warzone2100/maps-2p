@@ -1,0 +1,1 @@
+This is the heads-on desert arena I've created. Its dunes are designed to provide an innovative gameplay experience, introducing many new defensive tactics possibilities. It diversifies the terrain without much usage of cliffs, and allows very competitive games.

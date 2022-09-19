@@ -1,0 +1,1 @@
+An experimental 1x1 duel map. It has exactly two chokepoints: a one-tile wide blocked by huts shortcut and a wide but long way around the hill. For the early tanks it takes almost equal amount of time to reach the enemy whatever way they choose.

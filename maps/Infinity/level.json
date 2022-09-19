@@ -1,0 +1,13 @@
+{
+    "name": "Infinity",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2010-10-20 02:36:46",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "flaME v1.10"
+}

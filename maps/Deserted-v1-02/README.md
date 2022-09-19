@@ -1,0 +1,1 @@
+A very large 1x1 duel map.

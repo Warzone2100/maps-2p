@@ -1,0 +1,1 @@
+A duel map with a very narrow choke point observable from above by both players. It should allow long games involving artillery wars.

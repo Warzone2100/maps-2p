@@ -1,0 +1,1 @@
+A richly oiled desert duel map.

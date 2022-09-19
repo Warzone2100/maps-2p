@@ -1,0 +1,1 @@
+A simple 2-player duel map. At first glance you expect lots of war over the center oils, that doesn't turn out to be the case. Makes for relaxed but rushy games. You generally end up with around 8 oils per player. Bases are protected by a steep hill each. Two oils right in base, two oils right next to base on a little platform.

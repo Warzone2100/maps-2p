@@ -1,0 +1,1 @@
+A small 1x1 duel map with gameplay focusing on flank control.

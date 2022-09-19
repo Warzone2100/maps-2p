@@ -1,0 +1,1 @@
+A duel map with a lot of defensive positions. In particular, you can protect your main choke from highground much earlier than you actually reach it.

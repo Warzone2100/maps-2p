@@ -1,0 +1,13 @@
+{
+    "name": "Calamity",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-12-07 23:24:50",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.20 Mono 2.10.1"
+}

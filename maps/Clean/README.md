@@ -1,0 +1,1 @@
+A map with very clean oil placement: 4 on base, 2x2 packs to fight for.

@@ -1,0 +1,1 @@
+Map of the two players of scavengers in the middle. The player receives four custom combat units.

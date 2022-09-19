@@ -1,0 +1,13 @@
+{
+    "name": "Serenity",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-08-02 11:58:43",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "flaME 1.19 MonoDevelop Microsoft .NET"
+}

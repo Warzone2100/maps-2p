@@ -1,0 +1,1 @@
+A map for competitive 1x1 duel games. Features 11 oils per player and complicated terrain for tactically rich games.

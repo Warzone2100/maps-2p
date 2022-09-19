@@ -1,0 +1,18 @@
+{
+    "name": "Hourglass-LowOil",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "Doruletz"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2017-01-16 20:41:50",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Mono 2.10",
+    "additional-authors": [
+        {
+            "name": "jman5000now"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+A wide urban duel map with one wide chokepoint and two narrow chokepoints. 

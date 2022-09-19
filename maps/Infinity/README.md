@@ -1,0 +1,1 @@
+A relatively crazy duel map. Initial bases are very close, but it takes quite a lot to reach them. A ring map, actually.

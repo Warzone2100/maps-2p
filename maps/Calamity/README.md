@@ -1,0 +1,3 @@
+A map for competitive 1x1 duels. Its two middle chokepoints are relatively wide, yet filled with neutral huts to make moving through difficult on the early game phase. Additionally, it includes a large scavenger base at the middle. 
+
+If anybody's interested, this map used to be the primary testing ground for development of NullBot AI, together with "VisionX2" for 1x2 matches against weaker AIs, until replaced by "Breach".

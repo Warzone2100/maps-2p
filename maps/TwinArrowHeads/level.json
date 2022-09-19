@@ -1,0 +1,13 @@
+{
+    "name": "TwinArrowHeads",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "Subsentient"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-07-21 00:04:37",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

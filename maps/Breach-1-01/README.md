@@ -1,0 +1,1 @@
+A map designed for competitive 1x1 duels. Its pecularities include multiple defensive positions, non-blocking scavenger spots, large amounts of destroyable features to spice up early micromanagement, and relatively tight starting positions.

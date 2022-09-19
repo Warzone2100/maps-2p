@@ -1,0 +1,1 @@
+Map of the two players with scavengerami. The gameplay possible with advanced bases.

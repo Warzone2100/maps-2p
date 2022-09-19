@@ -1,0 +1,1 @@
+Longitudinal map for two players from scavengers.
