@@ -1,0 +1,13 @@
+{
+    "name": "Temple-1-02",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2010-10-26 14:28:18",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

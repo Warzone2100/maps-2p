@@ -1,0 +1,13 @@
+{
+    "name": "UrbanAssault",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "urban",
+    "author": {
+        "name": "Puhdoo"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2010-11-10 14:25:18",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

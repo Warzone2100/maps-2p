@@ -1,0 +1,13 @@
+{
+    "name": "WhiskeyCorridor",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "Skynet"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-03-17 08:13:13",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "skave1",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "sss"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-07-09 13:35:30",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.15"
+}

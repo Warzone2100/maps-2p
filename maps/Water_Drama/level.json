@@ -1,0 +1,13 @@
+{
+    "name": "Water_Drama",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "r3d3s"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2016-07-29 01:03:47",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Wolf_Pass",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "Beholder"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2014-04-01 15:26:07",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

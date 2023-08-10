@@ -1,0 +1,13 @@
+{
+    "name": "Strongholds",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "Puhdoo"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2010-11-09 16:48:12",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

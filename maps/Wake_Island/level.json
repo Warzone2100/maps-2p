@@ -1,0 +1,13 @@
+{
+    "name": "Wake_Island",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "DraLUSAD"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-05-24 14:14:07",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "decale_rocky",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "vaut"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2018-11-18 18:43:48",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

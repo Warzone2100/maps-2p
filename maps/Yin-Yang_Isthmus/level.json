@@ -1,0 +1,13 @@
+{
+    "name": "Yin-Yang_Isthmus",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "Androxx"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-06-06 13:06:56",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME 1.19 Visual Basic 2010"
+}

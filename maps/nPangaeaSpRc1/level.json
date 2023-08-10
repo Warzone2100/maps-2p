@@ -1,0 +1,13 @@
+{
+    "name": "nPangaeaSpRc1",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "Rman Virgil"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2014-06-09 17:55:05",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.27 Windows"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "vulture",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "djoe"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2010-11-18 16:02:59",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "UrbanChaosRec",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "urban",
+    "author": {
+        "name": "Recon"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2015-09-19 01:44:27",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

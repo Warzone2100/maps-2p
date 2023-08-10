@@ -1,0 +1,13 @@
+{
+    "name": "TowersFor2",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "Edited to 2p by Subsentient for Berg"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2018-09-17 02:03:57",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
