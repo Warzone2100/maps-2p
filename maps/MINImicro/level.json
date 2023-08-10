@@ -1,0 +1,13 @@
+{
+    "name": "MINImicro",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "urban",
+    "author": {
+        "name": "RaNgEl"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-04-24 15:49:39",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.27 Windows"
+}

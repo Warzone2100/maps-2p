@@ -1,0 +1,13 @@
+{
+    "name": "StartUp2",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "crab"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-01-08 22:32:21",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

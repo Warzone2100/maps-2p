@@ -1,0 +1,18 @@
+{
+    "name": "HexagonX3",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "gnz"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2017-04-28 13:38:29",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Mono 2.10",
+    "additional-authors": [
+        {
+            "name": "vaut"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Obstuctionv1-01",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "Arreon"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-03-24 21:02:49",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

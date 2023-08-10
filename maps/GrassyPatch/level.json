@@ -1,0 +1,18 @@
+{
+    "name": "GrassyPatch",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "Subsentient"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-02-04 18:29:56",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.25 Mono 2.10",
+    "additional-authors": [
+        {
+            "name": "NoQ"
+        }
+    ]
+}

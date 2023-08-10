@@ -1,0 +1,18 @@
+{
+    "name": "AValley",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "RBMW-Fedaykin"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2018-11-03 22:00:10",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10",
+    "additional-authors": [
+        {
+            "name": "Vaut"
+        }
+    ]
+}

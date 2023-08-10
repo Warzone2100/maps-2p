@@ -1,0 +1,13 @@
+{
+    "name": "GreenLimitsT2",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "Rugnir_Viking"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2013-05-09 16:32:45",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

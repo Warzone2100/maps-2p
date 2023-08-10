@@ -1,0 +1,13 @@
+{
+    "name": "NomadicSiege_0-1",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "p0l1z1"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-03-25 15:23:39",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.25 Windows"
+}

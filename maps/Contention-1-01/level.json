@@ -1,0 +1,13 @@
+{
+    "name": "Contention-1-01",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "Dylan Hsu"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-05-17 17:39:15",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

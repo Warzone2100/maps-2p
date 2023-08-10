@@ -1,0 +1,13 @@
+{
+    "name": "Chokepoint",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "rowanhalo2@hotmail.com"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2010-12-12 10:20:39",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "NTWFor2",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "Subsentient"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2015-01-11 02:10:49",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

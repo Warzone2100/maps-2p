@@ -1,0 +1,13 @@
+{
+    "name": "HighGround_cor2",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "r3d3"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-01-31 19:05:45",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

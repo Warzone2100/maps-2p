@@ -1,0 +1,13 @@
+{
+    "name": "PL-Mad-RushV8",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "Dariusz(baobab@wp.pl)"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-03-01 17:22:58",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

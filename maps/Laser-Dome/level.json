@@ -1,0 +1,13 @@
+{
+    "name": "Laser-Dome",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "JJB"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-03-01 18:29:54",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

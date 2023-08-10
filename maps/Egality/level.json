@@ -1,0 +1,13 @@
+{
+    "name": "Egality",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "urban",
+    "author": {
+        "name": "BrickTop"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-06-01 09:13:09",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

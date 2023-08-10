@@ -1,0 +1,13 @@
+{
+    "name": "Boombox",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "Dede"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-11-16 12:40:53",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

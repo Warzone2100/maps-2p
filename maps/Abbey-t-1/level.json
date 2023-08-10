@@ -1,0 +1,13 @@
+{
+    "name": "Abbey-t-1",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "aycT"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-07-23 14:57:19",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.24 Windows"
+}

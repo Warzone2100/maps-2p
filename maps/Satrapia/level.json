@@ -1,0 +1,13 @@
+{
+    "name": "Satrapia",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "recon"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2015-09-19 00:07:16",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
