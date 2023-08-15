@@ -1,0 +1,1 @@
+Classic 1x1 duel map
