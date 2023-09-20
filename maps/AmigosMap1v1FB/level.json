@@ -1,0 +1,13 @@
+{
+    "name": "AmigosMap1v1FB",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "UnP_Gamma"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2023-03-28 20:29:04",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

@@ -1,0 +1,1 @@
+Map to play 1v1 with a new design and a spacious battlefield
