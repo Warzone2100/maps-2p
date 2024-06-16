@@ -1,0 +1,13 @@
+{
+    "name": "Composit",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "Gbh"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2018-06-22 09:55:23",
+    "generator": "wzmaplib 1.2.5",
+    "prior-generator": "FlaME 1.28 Mono 2.10"
+}
