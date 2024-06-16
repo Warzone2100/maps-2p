@@ -1,0 +1,13 @@
+{
+    "name": "DramaticScavs",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "NoQ and vaut"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2020-08-30 19:25:16",
+    "generator": "wzmaplib 1.2.5",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
