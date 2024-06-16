@@ -1,0 +1,1 @@
+Duel map for 2 players.
