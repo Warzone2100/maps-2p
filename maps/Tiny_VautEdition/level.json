@@ -1,0 +1,13 @@
+{
+    "name": "Tiny_VautEdition",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "urban",
+    "author": {
+        "name": "vaut"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2020-08-30 22:42:30",
+    "generator": "wzmaplib 1.2.5",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
