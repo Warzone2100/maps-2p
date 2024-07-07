@@ -1,0 +1,1 @@
+A low oil map for 1v1 duels. Sturdy cliffs and rugged mountains dominate the terrain, with winding canyons and miniature lakes nested between them. With two main routes of attack, each player must balance between offense and defense on both sides of the map. Light scavenger defenses are optionally available.
