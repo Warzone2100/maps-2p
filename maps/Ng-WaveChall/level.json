@@ -1,0 +1,13 @@
+{
+    "name": "Ng-WaveChall",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "rockies",
+    "author": {
+        "name": "bob marley"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2023-03-01 20:13:39",
+    "generator": "wzmaplib 1.2.7",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
