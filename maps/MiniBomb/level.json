@@ -1,0 +1,13 @@
+{
+    "name": "MiniBomb",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "arizona",
+    "author": {
+        "name": "arc"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2025-12-16 21:54:08",
+    "generator": "wzmaplib 1.4.4",
+    "prior-generator": "FlaME 1.29 Windows"
+}
