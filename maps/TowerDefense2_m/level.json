@@ -1,0 +1,13 @@
+{
+    "name": "TowerDefense2_m",
+    "type": "skirmish",
+    "players": 2,
+    "tileset": "urban",
+    "author": {
+        "name": "arc"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2026-06-16 13:15:21",
+    "generator": "wzmaplib 1.4.4",
+    "prior-generator": "FlaME 1.29 Windows"
+}
